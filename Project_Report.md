@@ -14,7 +14,7 @@
 
 **Submitted By:**
 
-| Name | Reg No.  |
+| Name | ERP -id  |
 |------|-----------------|
 | Mayank Kumar | 10795 |
 

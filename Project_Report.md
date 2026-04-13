@@ -14,7 +14,7 @@
 
 **Submitted By:**
 
-| Name | Reg No. / ARP ID |
+| Name | Reg No.  |
 |------|-----------------|
 | Mayank Kumar | 10795 |
 
